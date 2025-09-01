@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Golang Malware Analysis          | <a href="https://github.com/Innuerr/Malware-Analysis-of-Go-based-Keylogger/tree/main">Malware Analysis of Go-based Keylogger</a>|
-| Detection of Node.js Exploitation Techniques  | <a href="https://google.com">Detection Lab</a>|
+| Detection of Node.js Exploitation Techniques  | <a href="https://github.com/Innuerr/Malicious-Electron-Application/tree/main">Malicious-Electron-Application</a>|
 | Network Traffic and Static Analysis       | SOC Automation Lab|
 | Disassembly & Decompilation      | SOC Automation Lab|
 | Debugging & Reverse Engineering                | SOC Automation Lab|
@@ -75,7 +75,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/Innuerr/Malware-Analysis-of-Go-based-Keylogger/tree/main">Malware Analysis of Go-based Keylogger</a>
-- Malicious Electron Application
+- <a href="https://github.com/Innuerr/Malicious-Electron-Application/tree/main">Malicious-Electron-Application</a>
 - Malware Analysis Lab: Sandbox Evasion, Process Injection, and C2 Communication
 - Malware Deobfuscation Lab: Reversing Base64 + XOR Payload Encryption
 - picoCTF Web Exploitation
