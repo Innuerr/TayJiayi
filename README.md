@@ -17,8 +17,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic and Static Analysis       | <a href="https://github.com/Innuerr/Malicious-Electron-Application/tree/main">Malicious-Electron-Application</a>||
 | Disassembly & Decompilation      | <a href="https://github.com/Innuerr/Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication/tree/main">Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication</a>|
 | Debugging & Reverse Engineering                | <a href="https://github.com/Innuerr/Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication/tree/main">Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication</a>|
-| Custom Decryption & Automation Scripting  | SOC Automation Lab|
-| HTTP Request Interception & Manipulation  | SOC Automation Lab|
+| Custom Decryption & Automation Scripting  | <a href= https://github.com/Innuerr/Malware-Deobfuscation-Lab-Reversing-Base64-XOR-Payload-Encryption/tree/main>Malware-Deobfuscation-Lab-Reversing-Base64-XOR-Payload-Encryption</a>|
+| HTTP Request Interception & Manipulation  |  <a href="https://github.com/Innuerr/Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication/tree/main">picoCTF Web Exploitation</a>|
 
 
 ## Tools
@@ -77,5 +77,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Innuerr/Malware-Analysis-of-Go-based-Keylogger/tree/main">Malware Analysis of Go-based Keylogger</a>
 - <a href="https://github.com/Innuerr/Malicious-Electron-Application/tree/main">Malicious-Electron-Application</a>
 - <a href="https://github.com/Innuerr/Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication/tree/main">Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication</a>|
-- Malware Deobfuscation Lab: Reversing Base64 + XOR Payload Encryption
+- <a href= https://github.com/Innuerr/Malware-Deobfuscation-Lab-Reversing-Base64-XOR-Payload-Encryption/tree/main>Malware-Deobfuscation-Lab-Reversing-Base64-XOR-Payload-Encryption</a>
 - picoCTF Web Exploitation
