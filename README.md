@@ -74,26 +74,31 @@ This repository aggregates my hands-on exercises and self-driven projects in mal
 
 ## Projects
 ### 1. Malware Analysis of Go-based Keylogger 
-**Description:** Reverse engineered a compact Go-based keylogger that exfiltrates kernel-level keystrokes. 
-**Techniques:** Traffic analysis, string deobfuscation, static binary inspection.
-[<a href="https://github.com/Innuerr/Malware-Analysis-of-Go-based-Keylogger/tree/main">Malware Analysis of Go-based Keylogger</a>]
+- **Description:** Reverse engineered a compact Go-based keylogger that exfiltrates kernel-level keystrokes. 
+- **Techniques:** Traffic analysis, string deobfuscation, static binary inspection.
+- **Outcome:** Confirmed the binary logged keystrokes and exfiltrated them via network traffic.
+- [<a href="https://github.com/Innuerr/Malware-Analysis-of-Go-based-Keylogger/tree/main">Malware Analysis of Go-based Keylogger</a>]
 
 ### 2. Malicious Electron Application Analysis 
-**Description:** Dissected a malicious Electron app with insecure settings (`nodeIntegration: true`) that captured keystrokes and delivered payloads. 
-**Techniques:** ASAR unpacking (`npx @electron/asar extract`), script decoding, WebSocket communication analysis. 
-[<a href="https://github.com/Innuerr/Malicious-Electron-Application/tree/main">Malicious-Electron-Application</a>]
+- **Description:** Dissected a malicious Electron app with insecure settings (`nodeIntegration: true`) that captured keystrokes and delivered payloads. 
+- **Techniques:** ASAR unpacking (`npx @electron/asar extract`), script decoding, WebSocket communication analysis. 
+- **Outcome:** Discovered keylogging functionality and attacker C2 communication over WebSockets.
+- [<a href="https://github.com/Innuerr/Malicious-Electron-Application/tree/main">Malicious-Electron-Application</a>]
 
 ### 3. Malware Sandbox Evasion & Process Injection  
-**Description:** Investigated a malware sample that used sandbox evasion, process injection, and C2 communication.
-**Techniques:** x64dbg debugging, API tracing (`VirtualAlloc`, `CreateThread`).
-[<a href="https://github.com/Innuerr/Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication/tree/main">Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication</a>]
+- **Description:** Investigated a malware sample that used sandbox evasion, process injection, and C2 communication.
+- **Techniques:** x64dbg debugging, API tracing (`VirtualAlloc`, `CreateThread`).
+- **Outcome:** Demonstrated how malware bypasses analysis environments and establishes remote control.
+- [<a href="https://github.com/Innuerr/Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication/tree/main">Malware-Analysis-Lab-Sandbox-Evasion-Process-Injection-and-C2-Communication</a>]
  
 ### 4. Malware Deobfuscation Lab – Base64 + XOR  
-**Description:** Built a custom Python script to reverse Base64 and XOR encryption applied to a malicious payload.
-**Techniques:** Buffer decryption, automation scripting.
-[<a href= https://github.com/Innuerr/Malware-Deobfuscation-Lab-Reversing-Base64-XOR-Payload-Encryption/tree/main>Malware-Deobfuscation-Lab-Reversing-Base64-XOR-Payload-Encryption</a>]
+- **Description:** Built a custom Python script to reverse Base64 and XOR encryption applied to a malicious payload.
+- **Techniques:** Buffer decryption, automation scripting.
+- **Outcome:** Successfully recovered plaintext shellcode, enabling further reverse engineering.
+- [<a href= https://github.com/Innuerr/Malware-Deobfuscation-Lab-Reversing-Base64-XOR-Payload-Encryption/tree/main>Malware-Deobfuscation-Lab-Reversing-Base64-XOR-Payload-Encryption</a>]
 
 ### 5. Web Exploitation – picoCTF Challenges  
-**Description:** Solved web challenges involving logic bypasses and OTP manipulation.
-**Techniques:** Burp Suite-based request manipulation, web logic analysis.
-[<a href="https://github.com/Innuerr/picoCTF-Web-Exploitation/tree/main">picoCTF Web Exploitation</a>]
+- **Description:** Solved web challenges involving logic bypasses and OTP manipulation.
+- **Techniques:** Burp Suite-based request manipulation, web logic analysis.
+- **Outcome:** Exploited poor validation to bypass OTP and extract application flags.
+- [<a href="https://github.com/Innuerr/picoCTF-Web-Exploitation/tree/main">picoCTF Web Exploitation</a>]
