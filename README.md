@@ -1,11 +1,11 @@
 # Hello, I'm Tay Jia Yi
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a graduate from Nanyang Technological University with a Bachelor’s degree in Computer Science and a minor in Cybersecurity
+I am a graduate from Nanyang Technological University with a Bachelor’s degree in Computer Science and a minor in Cybersecurity.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, seeking an entry-level role in cybersecurity where I can apply my technical knowledge, expand my practical skills, and grow into a specialized career path such as security operations, incident response, or digital forensics.
+This repository aggregates my hands-on exercises and self-driven projects in malware analysis, reverse engineering, and exploitation. Each project demonstrates practical application of cybersecurity knowledge with a focus on **malware behavior, exploitation techniques, and defensive countermeasures**.
 
 ## Skills
 
