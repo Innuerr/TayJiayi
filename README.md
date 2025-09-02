@@ -8,7 +8,6 @@ I am a graduate from Nanyang Technological University with a Bachelor’s degree
 My journey in computer science has led me to develop a passion for cybersecurity, seeking an entry-level role in cybersecurity where I can apply my technical knowledge, expand my practical skills, and grow into a specialized career path such as security operations, incident response, or digital forensics.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
